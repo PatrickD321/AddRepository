@@ -18,4 +18,6 @@ The school board has notified Maria and her supervisor that the students_complet
 
 - Summary of the DataFrame for ths school district Fig. 2.1![Fig 2 1](https://user-images.githubusercontent.com/78861458/111173429-05d23300-857d-11eb-880e-2d834a27a5ea.png)
 
+- Summary of each School without the 9th grade Fig 3![Fig 3](https://user-images.githubusercontent.com/78861458/111174976-5007e400-857e-11eb-83e4-9d07f5f4f1b6.png)
+
 
